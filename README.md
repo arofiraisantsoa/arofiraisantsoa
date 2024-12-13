@@ -8,3 +8,5 @@ https://conf-ng.jres.org/2015/document_revision_1425.html?download
 
 
 http://audaces.asso.st/uploads/Presentations/crri_audaces_2014.pdf
+
+https://cyber.gouv.fr/sites/default/files/document/anssi-guide-openstack_v1-0.pdf
