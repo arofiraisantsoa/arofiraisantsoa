@@ -5,3 +5,6 @@ https://docs.openstack.org/ocata/fr/install-guide-debian/environment.html
 https://mandem.medium.com/installation-dun-cluster-multi-noeuds-openstack-victoria-sur-des-serveurs-d%C3%A9di%C3%A9s-avec-le-backend-5ed332eeeaee
 
 https://conf-ng.jres.org/2015/document_revision_1425.html?download
+
+
+http://audaces.asso.st/uploads/Presentations/crri_audaces_2014.pdf
