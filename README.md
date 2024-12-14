@@ -2,6 +2,7 @@ https://sleeplessbeastie.eu/2019/08/12/how-to-perform-suite-change/
 https://docs.openstack.org/ocata/fr/install-guide-debian/environment.html
 
 # Projet Infrastructure as Code.
+https://intuitive.cloud/blog/multi-node-openstack-newton-with-ceph-as-storage
 https://contactchanaka.medium.com/mastering-openstack-from-installation-to-auto-scaling-your-cloud-infrastructure-1bb05d422b16
 https://mandem.medium.com/installation-dun-cluster-multi-noeuds-openstack-victoria-sur-des-serveurs-d%C3%A9di%C3%A9s-avec-le-backend-5ed332eeeaee
 https://docs.openstack.org/openstack-ansible/ussuri/admin/scale-environment.html
