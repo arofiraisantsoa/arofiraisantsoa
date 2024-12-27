@@ -18,3 +18,4 @@ https://cyber.gouv.fr/sites/default/files/document/anssi-guide-openstack_v1-0.pd
 
 # Projet E-reputation
 https://www.appvizer.fr/marketing/gestion-reputation
+https://smartkeyword.io/seo-outils-google-google-alerts/
