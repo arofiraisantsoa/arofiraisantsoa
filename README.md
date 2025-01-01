@@ -2,7 +2,7 @@ https://sleeplessbeastie.eu/2019/08/12/how-to-perform-suite-change/
 https://docs.openstack.org/ocata/fr/install-guide-debian/environment.html
 
 # Projet Infrastructure as Code.
-
+ae6d2544e30543ce
 https://docs.openstack.org/install-guide/launch-instance-selfservice.html
 https://linuxconfig.org/how-to-resize-ext4-root-partition-live-without-umount
 https://openstack.goffinet.org/07-00-administration-openstack-2
