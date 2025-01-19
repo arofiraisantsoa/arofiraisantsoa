@@ -2,6 +2,7 @@ https://sleeplessbeastie.eu/2019/08/12/how-to-perform-suite-change/
 https://docs.openstack.org/ocata/fr/install-guide-debian/environment.html
 
 # Projet Infrastructure as Code.
+https://www.youtube.com/watch?v=yJcW5xS6k1g&list=PLHilVoTkxy-DdW6QN_NRVwuBTqZcJgaIK
 https://www.informaticar.net/how-to-install-openstack-on-centos/
 ae6d2544e30543ce
 https://docs.openstack.org/install-guide/launch-instance-selfservice.html
